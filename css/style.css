@@ -1,0 +1,17 @@
+body{
+    padding: 10px;
+    background-color: lightgray;
+}
+
+#paragraf-result{
+    margin-top: 50px;
+}
+
+input{
+    width: 100px;
+}
+
+label{
+    font-family: 'arial';
+    font-style:oblique;
+}
